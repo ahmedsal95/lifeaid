@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "LifeAid: A Multilingual, Retrieval-Based Conversational Agent for Pre-Hospital First Aid Guidance"
+type: dataset
+license: CC-BY-4.0
+authors:
+  - family-names: Salaheldin
+    given-names: Ahmed
+    email: a.salah@gaf.edu.eg
+    affiliation: "Artificial Intelligence Programme, School of Engineering and Computer Science, University of Hertfordshire, hosted by GAF, New Capital, Egypt"
+  - family-names: Medhat
+    given-names: Bassem
+    affiliation: "Artificial Intelligence Programme, School of Engineering and Computer Science, University of Hertfordshire, hosted by GAF, New Capital, Egypt"
+  - family-names: Saad
+    given-names: Rahma
+    affiliation: "Biomedical Engineering Department, Faculty of Engineering and Technology, Future University in Egypt, Cairo, Egypt"
+  - family-names: Saleh
+    given-names: Neven
+    affiliation: "Biomedical Engineering Department, Faculty of Engineering and Technology, Future University in Egypt, Cairo, Egypt"
+keywords:
+  - first aid
+  - emergency decision support
+  - multilingual conversational AI
+  - medical chatbot
+  - TF-IDF
+  - retrieval-based NLP
+preferred-citation:
+  type: article
+  title: "LifeAid: A Multilingual, Retrieval-Based Conversational Agent for Pre-Hospital First Aid Guidance"
+  year: 2026
+  authors:
+    - family-names: Salaheldin
+      given-names: Ahmed
+    - family-names: Medhat
+      given-names: Bassem
+    - family-names: Saad
+      given-names: Rahma
+    - family-names: Saleh
+      given-names: Neven

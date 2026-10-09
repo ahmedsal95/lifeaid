@@ -1,0 +1,15 @@
+metric,value,unit
+Total interactions,69,count
+Session duration,71.5,minutes
+Languages tested,"English; Arabic; French; German",
+Language identification accuracy,100,percent
+Language identification errors,0,count
+Scenario match rate,94.2,percent
+Successful matches,65,count
+Failed / fallback responses,4,count
+Mean response latency,0.357,seconds
+Minimum response latency,0.000,seconds
+Maximum response latency,2.216,seconds
+Severity-detection rate,69.6,percent
+Total software errors,0,count
+Operational error rate,0,percent

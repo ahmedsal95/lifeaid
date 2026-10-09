@@ -1,0 +1,14 @@
+feature,test_outcome
+Bleeding quick-help button,Response correctly classified and returned at Urgent severity
+Choking quick-help button,Correctly returned Critical-severity guidance including step-by-step Heimlich manoeuvre instructions
+CPR quick-help button,Cardiac-arrest protocol correctly identified and returned at Critical severity
+Burns quick-help button,"Burn-treatment guidance returned at Urgent severity, with the associated cooling timer triggered automatically"
+CPR timer,"Countdown begins at the 2-minute mark and decrements accurately; start, pause, and reset controls all operate as intended"
+Burn-cooling timer,Countdown begins at the 20-minute mark and decrements without error
+Arabic RTL rendering,Arabic-language output is correctly mirrored into right-to-left reading order
+Text-to-speech,Spoken output was generated and played back without error in both English and Arabic
+User registration / login,"New-account creation, form validation, and login authentication all worked as designed"
+Chat history save / reload,Prior conversations persisted between sessions and reloaded accurately via the sidebar menu
+Emergency numbers panel,The correct emergency contact number appeared for every one of the eight supported regions
+Dark / light mode toggle,Switching between light and dark themes updated every interface element consistently
+New Chat button,Starting a new conversation cleared the chat state and reset any running timer

@@ -1,0 +1,5 @@
+system,reference,languages,match_or_accuracy,response_time,timers_tts
+Kasinathan et al.,[2],1 (English),High usability (user study),Not reported,No
+Anwar et al.,[3],"1 (Arabic, MSA)",Fine-tuned intent classification + text similarity,Not reported,No
+CareFirst Team,[17],1 (English),"Retrieval-augmented, Red Cross-sourced guidance",Not reported,No
+LifeAid (proposed work),,15+ (automatic),94.2% match; 100% language accuracy,0.357 s (mean),Yes (3 timers + TTS)
